@@ -34,7 +34,7 @@ my @exclusions = (
     qr{^/config.log$},
     qr{^/gource$},
     qr{^/dev/},
-    qr{^/logs/},
+    qr{^//},
     qr{/\.},
     qr{Makefile$},
     qr{\.o$},
